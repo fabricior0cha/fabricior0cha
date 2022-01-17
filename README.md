@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Angular and Javascript.
 - 😄 Pronouns: he/him.
 </div>
-<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right">
+<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right" style='padding: 0px'>
 
   
 
