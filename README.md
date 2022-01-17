@@ -1,12 +1,13 @@
 # Hello Coders! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50">
 
-<div>
-<p>My name is Fabrício Rocha and I'm Web Developer Full Stack Jr. I'm from Brazil, living in São Paulo.<p>
+<div size='20px'>
+<p align='center' >My name is Fabrício Rocha and I'm Web Developer Full Stack Jr. I'm from Brazil, living in São Paulo.<p>
 
 - 🌱 I’m currently learning Angular and Javascript.
 - 😄 Pronouns: he/him.
-<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right">
 </div>
+<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right">
+
   
 
  ## <img  width = "40px" src="https://media2.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif?cid=ecf05e47vf31qzdnfa1xv00y8amf2qu4fra8wf1agwei9pz3&rid=giphy.gif&ct=s"> Technologies and Tools:
@@ -23,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/dede753e9b1dd7e1f5e8f9a9f094b67ecf7781ec/icons/git.svg" width="40px">
 </div>
 
-## <img  width = "40px" src="https://media1.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47ncd24l6x3ak9kezdc0iz241ny0jdoh5hbby7r1o2&rid=giphy.gif&ct=s"> Github Stats:
+## <img  align='left' width = "40px" src="https://media1.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47ncd24l6x3ak9kezdc0iz241ny0jdoh5hbby7r1o2&rid=giphy.gif&ct=s"> Github Stats:
 <div>
 <img  src = "https://github-readme-stats.vercel.app/api?username=fabricior0cha&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fabricior0cha&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact">
