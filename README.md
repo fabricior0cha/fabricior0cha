@@ -1,12 +1,13 @@
 # Hello Coders! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "50">
 
+<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right">
+
 <div size='20px'>
 <p align='center' >My name is Fabrício Rocha and I'm Web Developer Full Stack Jr. I'm from Brazil, living in São Paulo.<p>
 
 - 🌱 I’m currently learning Angular and Javascript.
 - 😄 Pronouns: he/him.
 </div>
-<img src="https://stories.freepiklabs.com/storage/33985/code-typing-bro-4592.png" width="40%" align="right" style='padding: 0px'>
 
   
 
