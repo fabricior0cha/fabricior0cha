@@ -28,7 +28,6 @@
 ## <img  align='left' width = "40px" src="https://media1.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47ncd24l6x3ak9kezdc0iz241ny0jdoh5hbby7r1o2&rid=giphy.gif&ct=s"> Github Stats:
 <div>
 <img  src = "https://github-readme-stats.vercel.app/api?username=fabricior0cha&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=fabricior0cha&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=fabricior0cha&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397">  
 </div>
 
