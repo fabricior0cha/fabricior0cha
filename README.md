@@ -18,18 +18,6 @@ I like to study and learn about software architecture to always develop robust a
 - Azure
 - MongoDB | Jest
 - JUnit 
-
-#### Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fabricior0cha&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricior0cha&hide_border=true&theme=dark&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
 <br/>
 
 <div align="center">  
